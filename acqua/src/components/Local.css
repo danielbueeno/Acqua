@@ -35,3 +35,23 @@
 .insta-link{
     color: black;
 }
+
+@media only screen and (min-width: 992px) {
+    #mapid{
+        width: 50vw;
+    }
+    .div-master{
+        display: flex;
+        position: relative;
+    }
+    .contatos{
+        padding-left: 20vw;
+        
+    }
+    .wpp{
+        max-width: 7vw;
+    }
+    .inst{
+        max-width: 8vw;
+    }
+}

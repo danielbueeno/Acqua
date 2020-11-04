@@ -10,7 +10,7 @@ function Atividades() {
   return (
     <div>
       <h1 className="titulo">ATIVIDADES</h1>
-      <div className="container">
+      <div className="container carousels">
 
         {/*First carousel */}
         <div className="container first">

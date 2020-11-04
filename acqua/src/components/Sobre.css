@@ -19,3 +19,26 @@
     margin-top: 2vh;
     font-size: small;
 }
+
+
+@media only screen and (min-width: 992px) {
+    .prof1{
+        display: flex;
+        justify-content: space-between;
+    }
+    .prof2{
+        display: flex;
+        justify-content: space-between;
+    }
+    .legen1{
+        padding-left: 2vw;
+    }
+    .legen2{
+        padding-right: 2vw;
+    }
+
+    .flavia{
+        min-width: 25vw;
+        max-height: 35vh;
+    }
+}
