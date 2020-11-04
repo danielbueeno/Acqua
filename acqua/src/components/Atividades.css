@@ -1,0 +1,11 @@
+.titulo {
+  font-size: 24.4px;
+  font-family: sans-serif;
+  padding-top: 8%;
+  padding-left: 6%;
+  color: #94D6F9;
+}
+.img{
+  background-image: url(../imgs/inf.png);
+}
+

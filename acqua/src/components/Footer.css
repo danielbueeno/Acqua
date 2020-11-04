@@ -1,0 +1,14 @@
+footer{
+    height: 6vh;
+    width: 100vw;
+    background-color: #F2F3F4;
+    color:black;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.direitos{
+    margin-bottom: 0;
+}
