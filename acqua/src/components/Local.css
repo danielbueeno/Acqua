@@ -1,3 +1,37 @@
 .titulo{
     font-size: 20px;
 }
+
+
+#mapid{
+    height: 30vh;
+}
+
+.wpp{
+    max-width: 17vw;
+    padding:0;
+}
+.inst{
+    max-width: 18vw;
+}
+
+.contato1{
+    display: flex;
+    align-items: center;
+    margin-left: 15%;
+}
+.contato2{
+    display: flex;
+    align-items: center;
+    margin-left: 15%;
+}
+
+.number{
+    padding-top: 5%;
+}
+.insta-page{
+    padding-top: 5%;
+}
+.insta-link{
+    color: black;
+}
