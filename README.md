@@ -1,7 +1,7 @@
 # Acqua Firmo e Bueno Website
 
-Localizada no Estreito, cidade brasileira do estado do Maranhão, Acqua Firmo e Bueno é uma escolinha de natação e hidroginástica. Fico honrado em poder 
-desenvolver o website da escola, além de muitissímo empolgado por se tratar do meu prmeiro trabalho de cunho profissional como programador.
+Located in Estreito, a Brazilian city in the state of Maranhão, Acqua Firmo e Bueno is a swimming school and water aerobics.
+I am honored to be able to develop the school's website, in addition to being very excited about it being my first professional job as a programmer.
 
 ## About the Website
 
